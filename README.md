@@ -7,5 +7,4 @@ Quarterly
 
 1) 3 most common offences in Melbourne? Detail by LGA?
 2) Crime by season? 
-3) Socioeconmic comparsion = census / centrelink data
-4) 
+3) Socioeconmic status correlation (demographic)
