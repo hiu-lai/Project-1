@@ -1,0 +1,31 @@
+﻿principal offence,Gender,10 years,11 years,12 years,13 years,14 years,15 years,16 years,17 years,Youth offenders,All offenders
+Homicide and related offences,Male,0,0,0,4,7,5,8,10,37,604
+Acts intended to cause injury,Male,76,128,354,678,979,1268,1351,1344,6181,63444
+Sexual assault and related off,Male,6,15,90,185,249,228,231,192,1190,8428
+Dangerous_negligent acts ,Male,3,9,11,21,28,20,41,43,186,1607
+Abduction_harassment,Male,0,11,14,43,54,58,72,68,322,3538
+Robbery_extortion,Male,9,14,47,122,198,272,248,208,1126,2697
+Unlawful entry with intent,Male,101,151,252,351,520,527,465,395,2765,8273
+Theft,Male,42,78,168,337,517,627,668,528,2967,18183
+Fraud_deception,Male,3,13,18,36,63,83,143,169,534,6137
+Illicit drug offences,Male,4,7,31,112,321,539,793,1184,2985,46025
+Weapons_explosives,Male,5,14,34,76,149,174,257,286,995,11097
+Property damage and environmen,Male,72,98,176,286,345,392,377,424,2173,11382
+Public order offences,Male,26,40,115,253,356,519,623,818,2748,29108
+Offences against justice ,Male,0,0,5,20,34,36,100,172,365,22797
+Miscellaneous offences,Male,0,8,23,34,107,199,279,386,1037,23580
+Homicide and related offences,Female,0,0,0,0,0,0,0,3,6,103
+Acts intended to cause injury,Female,11,78,248,526,767,759,687,577,3662,19453
+Sexual assault and related off,Female,3,4,38,82,72,42,21,8,267,548
+Dangerous_negligent acts ,Female,0,0,0,3,0,8,12,6,33,405
+Abduction_harassment,Female,0,0,10,18,25,20,9,20,105,738
+Robbery_extortion,Female,0,0,15,42,76,68,58,48,303,644
+Unlawful entry with intent,Female,18,33,64,115,121,104,87,60,605,1913
+Theft,Female,17,44,124,334,442,514,447,315,2234,12913
+Fraud_deception,Female,0,0,3,17,24,42,41,72,206,3241
+Illicit drug offences,Female,0,3,10,68,153,238,264,366,1094,16626
+Weapons_explosives,Female,0,3,8,11,17,16,27,35,109,1996
+Property damage and environmen,Female,21,19,54,84,92,117,99,103,585,3121
+Public order offences,Female,5,20,45,119,165,215,228,261,1063,8935
+Offences against justice ,Female,0,5,8,17,25,36,43,70,193,6037
+Miscellaneous offences,Female,0,3,4,16,54,64,114,187,444,7555
