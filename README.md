@@ -22,11 +22,14 @@ Our aim is to identify:
 ## How to run the files
 The analysis is broken down into three core areas; LGA\Suburbs, Offenders and Youth Offenders. To review any of the source code, identify the area of interest and run the individual code file in Jupyter notebook.
 
-## 01 LGA Analysis File
+**01 LGA Analysis.ipynb**
+
 Analysis on Victoria offences by LGA and Suburbs.
 
-## 02 Offenders (17 years plus)
-Analysis on Adult offender Principal Offences by Offenders' gender and age group. 
+**02 Offenders.ipynb**
 
-## 03 Youth Offenders (Age between 10 - 17 years old)
-Anslysis on Youth offender Principal Offences by gender.
+Analysis on Adult offender (over the age of 17) Principal Offences by Offenders' gender and age group. 
+
+**03 Youth Offenders.ipynb**
+
+Anslysis on Youth offender (Age between 10 - 17) Principal Offences by gender.
