@@ -17,4 +17,16 @@ Our aim is to identify:
 ## Team
 - Hiu Kwan Lai: https://github.com/hiu-lai
 - Vishaan Solanki: https://github.com/vsola19
-- Nicholas Chatjaval
+- Nicholas Chatjaval: https://github.com/nchatj/
+
+## How to run the files
+The analysis is broken down into three core areas; LGA\Suburbs, Offenders and Youth Offenders. To review any of the source code, identify the area of interest and run the individual code file in Jupyter notebook.
+
+## 01 LGA Analysis File
+Analysis on Victoria offences by LGA and Suburbs.
+
+## 02 Offenders (17 years plus)
+Analysis on Adult offender Principal Offences by Offenders' gender and age group. 
+
+## 03 Youth Offenders (Age between 10 - 17 years old)
+Anslysis on Youth offender Principal Offences by gender.
