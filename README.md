@@ -1,27 +1,20 @@
-# Project-1
-## Title: Melbourne Crime Hotspots
+# Project-1: Victorian offences analysis
+## Background
+Using data available from [Australian Bureau of Statistic (ABS)](https://www.abs.gov.au/statistics/people/crime-and-justice/recorded-crime-offenders/2020-21#victoria) and [Crime Statistics Agency](https://www.crimestatistics.vic.gov.au/crime-statistics/latest-victorian-crime-data/download-data), we will highlight the top offences in Victoria for the last 5 years ending December 2021, focusing on Local government Areas/Suburbs, gender and age group to identify the key areas of concerns. This information will further assist our education sector, parents/guardians on what to educate the younger youth before they grow into a youth offender. 
 
-Data: https://www.crimestatistics.vic.gov.au/crime-statistics/latest-victorian-crime-data/download-data
+Our aim is to identify:
+1)	Top offences by:
+    - Local Government Areas
+    - Suburbs
+    - Gender
+    - Youth Offenders
+    - Age Group
+2)	Trends by year with;
+    - Suburbs
+    - Gender
+    - Youth Offenders
 
-Data period 2019, 2020, 2021
-
-1) 10 most common offences in Melbourne? Detail by LGA?
-2) Crime by season? 
-3) Socioeconmic status correlation (demographic)
-4) which LGA has the highest crime rate
-5) which suburbs within the highest crime rate LGA
-6) Trend between Criminal Incidents and Recorded Offences
-7) Family Violence
-8) Job Keeper vs Criminal Incidents
-9) Addiction
-10) Bulgary increased during covid?
-
-
-https://www.abs.gov.au/statistics/people/crime-and-justice/recorded-crime-offenders/2020-21#victoria
-
-
-## Data Source 
-
-
-![image](https://user-images.githubusercontent.com/97108762/159374868-a9f7b115-79f8-4b06-8a1c-9ed4c8bb1eae.png)
-
+## Team
+- Hiu Kwan Lai: https://github.com/hiu-lai
+- Vishaan Solanki: https://github.com/vsola19
+- Nicholas Chatjaval
